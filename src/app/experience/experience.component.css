@@ -1,0 +1,35 @@
+.headerIcon{
+  display: flex;
+  justify-content: flex-start;
+  height: 50px;
+  padding: 5px 0px;
+}
+
+
+.bold{
+  font-weight: bold;
+}
+
+.italic{
+  font-style: italic;
+}
+
+
+.project div span{
+  text-decoration-line: underline;
+}
+
+ul {
+ margin: 0px 0px;
+}
+
+.project{
+  margin: 10px 10px;
+}
+mat-card {
+  padding: 5px 10px;
+}
+
+a {
+  color: black;
+}
